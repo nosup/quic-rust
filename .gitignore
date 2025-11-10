@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+
+# Personal notes (not for public repo)
+Claude.md
+ROADMAP_DETAILED.md
